@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Issue Resolution Assistant</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="description">
+            <h2>Description</h2>
+            <label for="issue">Issue</label>
+            <textarea id="issue" placeholder="Describe your issue..."></textarea>
+            <label for="expected-outcome">Expected Behavior/Outcome</label>
+            <textarea id="expected-outcome" placeholder="Describe the expected outcome..."></textarea>
+
+            <div class="language-version-row">
+                <select id="programming-language" class="language-dropdown">
+                    <option value="">Programming Language</option>
+                    <option value="javascript">JavaScript</option>
+                    <option value="python">Python</option>
+                    <option value="java">Java</option>
+                    <option value="c">C</option>
+                    <option value="cpp">C++</option>
+                    <option value="ruby">Ruby</option>
+                    <option value="php">PHP</option>
+                    <!-- Add more languages as needed -->
+                </select>
+                
+                <!-- <label for="language-version">Version</label> -->
+                <input type="text" id="language-version" placeholder="Enter version" class="version-input" />
+            </div>
+        </div>
+
+        <div class="code-snippets">
+            <h2>Code Snippets</h2>
+            <!-- Code snippet upload or text input -->
+            <div class="input-row">
+                <input type="text" placeholder="Enter file name" class="file-name-input" />
+                <select class="file-extension-dropdown">
+                    <option value="">Select Extension</option>
+                    <option value=".js">.js</option>
+                    <option value=".py">.py</option>
+                    <option value=".java">.java</option>
+                    <option value=".c">.c</option>
+                    <option value=".csharp">.csharp</option>
+                    <option value=".cpp">.cpp</option>
+                    <option value=".html">.html</option>
+                    <option value=".css">.css</option>
+                    <option value=".json">.json</option>
+                    <option value=".csv">.csv</option>
+                    <!-- Add more extensions as needed -->
+                </select>
+            </div>
+            <textarea placeholder="Enter code snippet here" class="textarea-input"></textarea>
+            <input type="file" id="code-upload" />
+            <button id="add-code-snippet">Add</button>
+            <div id="file-list"></div>
+        </div>
+
+        <div class="error-log">
+            <h2>Error Log</h2>
+            <textarea id="error-log" placeholder="Paste your error log here..."></textarea>
+        </div>
+
+        <div class="libraries">
+            <h2>Libraries/Frameworks</h2>
+            <div id="libraries-list">
+                <input type="text" placeholder="Add library/framework" />
+                <button id="add-library">Add</button>
+            </div>
+        </div>
+        <div class="resources">
+            <h2>Resources</h2>
+            <div id="resources-list">
+                <input type="text" placeholder="Add resource link" />
+                <button id="add-resource">Add</button>
+            </div>
+        </div>
+    
+        <!-- Submit Button -->
+        <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
+            <button id="submit-btn">Submit</button>
+            <button id="copy-btn">Copy to Clipboard</button>
+        </div>
+        
+
+        <div class="divider"></div>
+
+        <!-- Progress Bar (Initially Hidden) -->
+        <div id="progress-bar-container" style="display: none;">
+            <div id="progress-bar">
+                <div id="progress"></div>
+            </div>
+        </div>
+
+        <div class="scores" id="scores" style="display: none;">
+            <h2>Scores</h2>
+            <div class="score-bar">
+                <span>Contextual Richness</span>
+                <div class="progress-bar">
+                    <div class="progress" style="width: 0%;"></div>
+                </div>
+            </div>
+            <div class="score-bar">
+                <span>Specifications</span>
+                <div class="progress-bar">
+                    <div class="progress" style="width: 0%;"></div>
+                </div>
+            </div>
+            <div class="score-bar">
+                <span>Clarity</span>
+                <div class="progress-bar">
+                    <div class="progress" style="width: 0%;"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="suggestions" class="suggestions" style="display: none;">
+            <h2>Suggestions</h2>
+            <!-- Contextual Richness Suggestions -->
+    <div class="suggestion-category">
+        <h3>For Better Contextual Richness:</h3>
+        <div class="grid-list">
+            <span class="positive">Related code snippets</span>
+            <span class="positive">Unique info</span>
+            <span class="positive">Description/Expected outcome</span>
+            <span class="positive">References</span>
+            <span class="positive">Error log</span>
+            <span class="positive">Concise code</span>
+        </div>
+    </div>
+
+    <!-- Specificity Suggestions -->
+    <div class="suggestion-category">
+        <h3>For Better Specificity:</h3>
+        <div class="grid-list">
+            <span class="positive">Programming language/version</span>
+            <span class="positive">Libraries/Frameworks</span>
+            <span class="positive">Detailed requirements</span>
+        </div>
+    </div>
+
+    <!-- Clarity Suggestions -->
+    <div class="suggestion-category">
+        <h3>For Better Clarity:</h3>
+        <div class="grid-list">
+            <span class="positive">Entailment</span>
+            <span class="positive">Less misspellings</span>
+        </div>
+    </div>
+        </div>
+        
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

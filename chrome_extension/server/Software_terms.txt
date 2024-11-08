@@ -1,0 +1,997 @@
+Abend
+Access	
+ACL	
+Activation Key	
+Active Cell	
+Active Directory	
+Adaptive Content	
+Add-on	
+AIX	
+Alert Box	
+Algorithm	
+Alpha Software	
+Android	
+ANR	
+Antivirus	
+API	
+App	
+Application	
+Archive	
+Array	
+Assembler	
+Assembly Language	
+Autocorrect	
+Backup	
+Bare Metal Restore	
+Bash	
+BASIC	
+Batch Process	
+Beta Software	
+BIOS	
+Bloatware	
+Bootstrap	
+Brownfield	
+BSOD	
+Bug	
+Bytecode	
+C#	
+C/C++	
+Cell	
+Cell Reference	
+CGI	
+Character Encoding	
+Checksum	
+Class	
+Clean Install	
+Clip Art	
+Clipboard	
+Codec	
+Command Line Interface	
+Command Prompt	
+Commercial Software	
+Compile	
+Compiler	
+Compression	
+Container	
+Contextual Menu	
+Control Panel	
+Copy	
+Crash	
+Cron	
+Cursor	
+Cut	
+Daemon	
+Dashboard	
+Data Management	
+Data Type	
+Database	
+DBMS	
+DCIM	
+Debug	
+Debugger	
+Default Program	
+Deprecated	
+Design Pattern	
+Desktop	
+Desktop Publishing	
+DevOps	
+Dialog Box	
+Digital Signature	
+Direct3D	
+Directory	
+DirectX	
+Disk Image	
+DLC	
+Dock	
+Document	
+Donationware	
+DOS	
+Drag and Drop	
+Driver	
+Drop Down Menu	
+Dual Boot	
+El Capitan	
+Emoji	
+Encoding	
+EPS	
+Excel	
+Exception	
+Executable File	
+Export	
+Extensible	
+FAT32	
+Favorites	
+File	
+File Association	
+File Compression	
+File Extension	
+File Format	
+File Type	
+Filename	
+Finder	
+Firmware	
+Flag	
+Flat File	
+Folder	
+FPS	
+Framework	
+Freeware	
+Frozen	
+Function	
+Gamma Correction	
+Garbage Collection	
+GNU	
+Gnutella	
+Golden Master	
+Greenfield	
+Grep	
+GUI	
+GUID	
+Hash	
+Heuristic	
+High Sierra	
+High-Level Language	
+Horizontal Market Software	
+Hotfix	
+Hypervisor	
+Icon	
+Illegal Operation	
+Import	
+Index	
+Insertion Point	
+Install	
+Installer	
+Interactive Video	
+Interpreter	
+iOS	
+ISR	
+Iteration	
+iTunes	
+Java	
+JDBC	
+JRE	
+JVM	
+KDE	
+Kernel	
+Keyboard Shortcut	
+Keylogger	
+KOffice	
+Leopard	
+LFN	
+Linux	
+Lion	
+Log File	
+Logic Error	
+Loop	
+Lossless	
+Lossy	
+Low-Level Language	
+Lua	
+Mac OS	
+Machine Language	
+Macro	
+Malware	
+MAMP	
+Mavericks	
+Maximize	
+MBR	
+Media Compression	
+Memory Leak	
+Menu Bar	
+Metafile	
+Method	
+Microkernel	
+Microsoft	
+Middleware	
+Minification	
+Minimize	
+Mojave	
+Motion Tween	
+Mount	
+Mountain Lion	
+Multitasking	
+Multithreading	
+MVC	
+MySQL	
+Native File	
+NetBIOS	
+NOS	
+Object	
+OCR	
+ODBC	
+Office	
+OLE	
+OOP	
+Opacity	
+Open Firmware	
+Open Source	
+OpenGL	
+Operating System	
+OS X	
+Parameter	
+Paste	
+Path	
+Perl	
+Piracy	
+Plain Text	
+Plug-in	
+Pop-Up	
+Portable Software	
+PowerPoint	
+Prebinding	
+Process	
+Processing	
+Program	
+Programming Language	
+Proprietary Software	
+Pseudocode	
+Public Domain	
+PUM	
+PUP	
+Python	
+QBE	
+Query	
+QuickTime	
+Raw Data	
+RDBMS	
+Readme	
+Recycle Bin	
+Register	
+Registry	
+Reimage	
+Relational Database	
+Remote Desktop	
+Repository	
+Ribbon	
+Rich Text	
+Ripping	
+Root	
+Rootkit	
+Rosetta	
+RPC	
+RTE	
+Ruby	
+Runtime	
+Runtime Error	
+SaaS	
+Samba	
+Sandboxing	
+Scareware	
+Schema	
+Screenshot	
+Script	
+Scroll Bar	
+Scrolling	
+SDK	
+SDLC	
+Service Pack	
+Shareware	
+Shell	
+Sierra	
+Silent Install	
+Skin	
+SMB	
+Snapchat	
+Snapshot	
+Snippet	
+SNMP	
+Snow Leopard	
+Soft Token	
+Software	
+Source Code	
+Spellcheck	
+Spool	
+Spreadsheet	
+Sprite	
+Spyware	
+SQL	
+Start Menu	
+Status Bar	
+Struct	
+Subdirectory	
+Symbolic Link	
+Syntax Error	
+System Preferences	
+System Software	
+Systray	
+Tab	
+Task Bar	
+Template	
+Terminal	
+Text Box	
+Text Editor	
+Thumbnail	
+Tiger	
+Title Bar	
+Toolbar	
+Tooltip	
+Trash	
+Trojan Horse	
+Tutorial	
+TWAIN	
+Typecasting	
+Undo	
+Unix	
+Unmount	
+Utility	
+UWP	
+Version Control	
+Vertical Market Software	
+Virtual Machine	
+Virtualization	
+Virus	
+Virus Definition	
+Visual Basic	
+WAMP	
+Waveform	
+WDDM	
+Web Browser	
+Widget	
+WIMP	
+Win32	
+Window	
+Windows	
+Windows 10	
+Windows 7	
+Windows 8	
+Windows RT	
+Windows Vista	
+Windows XP	
+Winsock	
+Wizard	
+Word	
+Word Processor	
+Word Wrap	
+WordArt	
+Worm	
+WYSIWYG	
+XAML	
+Yosemite	
+Zero Day Exploit
+
+
+3G	
+404 Error	
+4G	
+ActiveX	
+Address Bar	
+Adware	
+Affiliate	
+Ajax	
+Apache	
+Applet	
+Archie	
+ASP	
+ASP.NET	
+ATM	
+Attachment	
+AUP	
+Autoresponder	
+Avatar	
+Backbone	
+Backlink	
+Banner Ad	
+Bcc	
+Big Data	
+Bing	
+BitTorrent	
+Blog	
+Bookmark	
+Bot	
+Botnet	
+Bounce	
+Broadband	
+Captcha	
+Cc	
+CDN	
+Certificate	
+CIFS	
+Client	
+Cloud	
+Cloud Computing	
+CMS	
+Cookie	
+CPA	
+CPC	
+CPL	
+CPM	
+CRM	
+Cross-Browser	
+CSS	
+CTR	
+Cyberbullying	
+Cyberspace	
+Cybersquatter	
+Datagram	
+Del.icio.us	
+Denial of Service	
+DHCP	
+Dial-up	
+Digital Footprint	
+Direct Digital Marketing	
+DKIM	
+DNS	
+DNS Record	
+Domain Name	
+Domain Suffix	
+Download	
+Drive-By Download	
+Dynamic Website	
+E-commerce	
+E-mail Bankruptcy	
+EDI	
+Email	
+Email Address	
+Email Bomb	
+Emoticon	
+Extranet	
+Facebook	
+Favicon	
+Fios	
+Firewall	
+Flaming	
+Flash	
+Fluid Layout	
+Friend	
+Friendly URL	
+FTP	
+Google	
+Google Drive	
+Gopher	
+Graymail	
+Grid Computing	
+Handle	
+Hashtag	
+Heartbleed	
+Hit	
+Home Page	
+Honeypot	
+HTML	
+HTML5	
+HTTP	
+HTTPS	
+Hyperlink	
+Hypermedia	
+Hypertext	
+ICANN	
+ICF	
+iCloud	
+ICMP	
+ICQ	
+ICS	
+ICT	
+Iframe	
+IIS	
+IM	
+Impression	
+Inbox	
+Instagram	
+Internet	
+Internet of Things	
+InterNIC	
+IP	
+IP Address	
+IPv4	
+IPv6	
+IRC	
+iSCSI	
+ISDN	
+ISP	
+JavaScript	
+Jitter	
+jQuery	
+JSF	
+JSP	
+Lag	
+LAMP	
+Lazy Loading	
+LDAP	
+Lead	
+Leaderboard	
+Leet	
+Link	
+LinkedIn	
+LISTSERV	
+Mail Server	
+Mashup	
+Media Queries	
+Meme	
+Meta Search Engine	
+Meta Tag	
+Microblogging	
+Minisite	
+Mirror	
+Moodle	
+Multicasting	
+MySpace	
+Name Server	
+NAT	
+Navigation Bar	
+Netiquette	
+Netmask	
+Newsgroup	
+NNTP	
+NOC	
+NoSQL	
+NSP	
+Optical Carrier	
+OSPF	
+OTT	
+Outbox	
+P2P	
+Packet	
+Page View	
+Parked Domain	
+Payload	
+Permalink	
+Personal URL	
+Pharming	
+Phishing	
+PHP	
+PIM	
+Ping	
+Pinterest	
+PON	
+POP3	
+Portal	
+PPC	
+PPL	
+PPP	
+PPPoE	
+PPS	
+PPTP	
+Protocol	
+Proxy Server	
+RADCAB	
+Ransomware	
+Reciprocal Link	
+Responsive Web Design	
+RPM	
+RSS	
+Sass	
+Scraping	
+SDSL	
+Search Engine	
+SEO	
+SERP	
+Servlet	
+Session	
+SIP	
+Site Map	
+Skyscraper	
+Slashdot	
+Smishing	
+SMM	
+SMTP	
+SOAP	
+Social Engineering	
+Social Media	
+Social Networking	
+Socket	
+Spam	
+SPF	
+Spider	
+Spoofing	
+SSH	
+SSL	
+Static Website	
+Streaming	
+SYN Flood	
+T1	
+T3	
+Tag	
+TCP	
+TCP/IP	
+Telnet	
+Traceroute	
+Trackback	
+Troll	
+TTL	
+Tumblr	
+Tunneling	
+Tweet	
+Twitter	
+UDP	
+UGC	
+Unfriend	
+Upload	
+URI	
+URL	
+Usenet	
+VCI	
+VDSL	
+Vlog	
+VoIP	
+VPI	
+VPN	
+VPS	
+W3C	
+WAIS	
+WAN	
+Web 2.0	
+Web Application	
+Web Beacon	
+Web Design	
+Web Development	
+Web Forum	
+Web Host	
+Web Page	
+Web Publishing	
+Web Ring	
+Web Server	
+Web Service	
+Webhook	
+Webmail	
+Webmaster	
+Website	
+WHOIS	
+Wiki	
+WINS	
+WordPress	
+WWW	
+XHTML	
+Yahoo
+YouTube	
+Zone File	
+
+
+ACL
+ADC
+ADF
+ADSL
+AGP
+AIFF
+AIX
+ALU
+ANR
+ANSI
+API
+APU
+ARP
+ASCII
+ASP
+ATA
+ATM
+ATX
+AUP
+AVR
+Bash
+BASIC
+Bcc
+BIOS
+BLE
+Blob
+BMP
+BSOD
+CAD
+CAN
+Cc
+CCD
+CD
+CD-R
+CD-ROM
+CD-RW
+CDFS
+CDMA
+CDN
+CGI
+CISC
+CLOB
+CMOS
+CMS
+CMYK
+CPA
+CPC
+CPL
+CPM
+CPS
+CPU
+CRM
+CRT
+CSS
+CTP
+CTR
+CUDA
+DAC
+DAW
+DBMS
+DCIM
+DDL
+DDR
+DDR2
+DDR3
+DDR4
+DFS
+DHCP
+DIMM
+DKIM
+DLC
+DLL
+DMA
+DNS
+DOS
+DPI
+DRAM
+DRM
+DSL
+DSLAM
+DTD
+DV
+DVD
+DVD+R
+DVD+RW
+DVD-R
+DVD-RAM
+DVD-RW
+DVI
+DVR
+ECC
+EDI
+eGPU
+EIDE
+EPS
+eSATA
+EUP
+EXIF
+FAQ
+FDDI
+FIFO
+FILO
+Fios
+FLOPS
+FPGA
+FPS
+FPU
+FQDN
+FSB
+FTP
+Gbps
+GIF
+GIGO
+GIS
+GPGPU
+GPIO
+GPS
+GPU
+GUI
+GUID
+HDD
+HDMI
+HDR
+HDTV
+HDV
+HFS
+HSF
+HTML
+HTTP
+HTTPS
+I/O
+ICANN
+ICF
+ICMP
+ICS
+ICT
+IDE
+IDS
+IEEE
+IGP
+IIS
+IM
+IMAP
+IMEI
+InterNIC
+IOPS
+IP
+IPS
+IPX
+IRC
+IRQ
+ISA
+iSCSI
+ISDN
+ISO
+ISP
+ISR
+IT
+ITIL
+IVR
+JDBC
+JFS
+JPEG
+JRE
+JSF
+JSON
+JSP
+JVM
+Kbps
+KDE
+KVM Switch
+LAMP
+LAN
+LCD
+LDAP
+LED
+LFN
+LIFO
+LPI
+LTE
+LUN
+MAC Address
+MAMP
+MANET
+Mbps
+MBR
+MCA
+MDI
+MIDI
+MIPS
+MIS
+MMS
+MP3
+MPEG
+MTU
+MVC
+NAT
+NetBIOS
+NFC
+NIC
+NINO
+NMS
+NNTP
+NOC
+NOS
+NSP
+NTFS
+NUI
+NVRAM
+OASIS
+OCR
+ODBC
+OEM
+OLAP
+OLE
+OLED
+OOP
+OSD
+OSPF
+OTA
+OTT
+P2P
+PC
+PCB
+PCI
+PCI-X
+PCMCIA
+PDA
+PDF
+PDU
+PHP
+PIM
+PMU
+PNG
+PoE
+PON
+POP3
+POST
+PPC
+PPGA
+PPI
+PPL
+PPM
+PPP
+PPPoE
+PPS
+PPTP
+PRAM
+PROM
+PS/2
+PUM
+PUP
+QBE
+RAID
+RAM
+RDBMS
+RDF
+RDRAM
+RFID
+RGB
+RIP
+RISC
+ROM
+RPC
+RPM
+RSS
+RTE
+RTF
+RUP
+SaaS
+SAN
+Sass
+SATA
+SCSI
+SD
+SDK
+SDLC
+SDRAM
+SDSL
+SEO
+SERP
+SIM Card
+SIMM
+SIP
+SKU
+SLA
+SLI
+SMART
+SMB
+SMM
+SMS
+SMTP
+SNMP
+SO-DIMM
+SOA
+SOAP
+SoC
+SPX
+SQL
+SRAM
+sRGB
+SSD
+SSH
+SSID
+SSL
+TCP
+TCP/IP
+TFT
+TIFF
+TTL
+TWAIN
+UAT
+UDDI
+UDP
+UEFI
+UGC
+UICC
+UML
+UNC
+UPnP
+UPS
+URI
+URL
+USB
+UTF
+UWP
+VCI
+VDSL
+VDU
+VFAT
+VGA
+VLAN
+VLB
+VLE
+VoIP
+VPI
+VPN
+VPS
+VRAM
+VRML
+W3C
+WAIS
+WAMP
+WAN
+WDDM
+WEP
+WIMP
+WINS
+WLAN
+WPA
+WWW
+WYSIWYG
+XAML
+XHTML
+XML
+XMP
+XSLT
+Y2K
+ZIF
+rkt
