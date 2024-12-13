@@ -1,4 +1,6 @@
 # Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution
+This replication package provides all the necessary components to replicate the analysis and findings presented in the study. The package is organized into structured directories containing the browser extension, annotated datasets, heuristic calculations, and analysis scripts.
+
 ## Structure
 ```md
 ├── chrome_extenstion
