@@ -34,5 +34,5 @@ You could also refer to ``data/initial_styles_categories`` to read about the con
 ### 3. Running Conversation Analysis
 The ``conversation_analysis`` folder includes Python scripts and Jupyter notebooks.
 Open the analysis notebooks and run the scripts.\
-Files ``heuristics.ipynb``, ``neuralcoref.ipynb.ipynb``, and ``main.py`` are for generating the heuristics based on the provided dataset.\
+Files ``heuristics.ipynb``, ``neuralcoref.ipynb``, and ``main.py`` are for generating the heuristics based on the provided dataset.\
 File ``annotation_analysis.ipynb`` is used to analyze the annotation done for the study.
