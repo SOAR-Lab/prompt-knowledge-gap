@@ -18,7 +18,7 @@ This replication package provides all the necessary components to replicate the 
 ### 1. Setting Up the Chrome Extension
 Navigate to the chrome_extension/server folder.
 Start the Flask server by running:\
-```python main.py```\
+```python main.py```
 
 **Load the extension:**\
 Open Chrome and go to ``chrome://extensions/``.
